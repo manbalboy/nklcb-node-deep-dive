@@ -5,7 +5,6 @@
 ## 1. 구성원
  - [정훈(manbalboy)](https://github.com/manbalboy)
  - [김선중(sunjoong91)](https://github.com/sunjoong91)
- ---
 
 ## 2. Study 목적 
 네카라쿠배 가서 살아남을 수 있는 기초 베이스 쌓기와 역량강화

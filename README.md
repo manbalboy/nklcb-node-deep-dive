@@ -57,5 +57,11 @@
 - MD파일은 화요일 오후 11:59분까지 올린다.
 
 
-## 5.참고자료
+## 5.Project repository
+Link : [모바일 청첩장](https://github.com/manbalboy/nklcb-project-invitation)
+- 착수일 : 2021-05-05
+- 목표일 : 2022-04-01 
+
+
+## 6.참고자료
 Pull Request 하는법 : [https://manbalboy.github.io/blog/etc/2021-04-26-git01/](https://manbalboy.github.io/blog/etc/2021-04-26-git01/)

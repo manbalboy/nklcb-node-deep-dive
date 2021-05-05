@@ -18,7 +18,7 @@ console.log("__dirname : ", __dirname);
 ```
 
 [결과]
-![filename](./img/05.PNG  "filename"){:.border}
+![filename](./img/05.PNG  "filename")
 
 
 ## 5. 정리 

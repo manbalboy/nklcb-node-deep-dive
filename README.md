@@ -64,4 +64,4 @@ Link : [모바일 청첩장](https://github.com/manbalboy/nklcb-project-invitati
 
 
 ## 6.참고자료
-Pull Request 하는법 : [https://manbalboy.github.io/it/git01.html)
+Pull Request 하는법 : [링크](https://manbalboy.github.io/it/git01.html)

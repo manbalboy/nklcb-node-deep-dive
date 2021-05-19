@@ -33,7 +33,7 @@ http.createServer((req, res) => {
 
 위의 명령어를 입력후 http://localhost:8080 으로 접속하면 다음과 같은 화면이 나오면 성공입니다. 
 
-![http](./img/01.PNG  "http")
+![http](./img/01.PNG)
 
 위의 예제 소스에서 req와 res는 각각 request 객체와 , respons 객체입니다.
 
@@ -83,7 +83,7 @@ http.createServer(async (req, res) => {
  $ node server2.js
 ```
 
-![http](./img/02.PNG  "http")
+![http](./img/02.PNG)
 
 실행결과는 다음과 같습니다.
 
@@ -175,7 +175,7 @@ http.createServer(async (req, res) => {
 
 위의 결과는 다음과 같습니다.
 
-![http](./img/http.gif  "http")
+![http](./img/http.gif)
 
 모바일에서는 gif 파일이 해상도가 낮아 잘 안보이실 수 있지만 post, get, delete, put 모두 정상 작동 하는 것을 알 수 있습니다. 
 
